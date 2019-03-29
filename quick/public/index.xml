@@ -17,7 +17,16 @@
       <pubDate>Fri, 29 Mar 2019 16:28:29 +0100</pubDate>
       
       <guid>http://www.quievreux.de/posts/bilder/</guid>
-      <description>Bilder hier kann man ein paar Bilder aus meiner Gallery sehen</description>
+      <description>hier kann man ein paar Bilder aus meiner Gallery sehen</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://www.quievreux.de/posts/my-first-post/</link>
+      <pubDate>Fri, 29 Mar 2019 16:27:24 +0100</pubDate>
+      
+      <guid>http://www.quievreux.de/posts/my-first-post/</guid>
+      <description>Hier nun mein erster Post für meine neue Website.</description>
     </item>
     
   </channel>
