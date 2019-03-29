@@ -1,0 +1,5 @@
+baseURL = "http://www.quievreux.de"
+languageCode = "de-de"
+title = "Meine Website"
+theme = "ananke"
+sectionPagesMenu = "main"
